@@ -49,6 +49,7 @@ function buildUserSummary(user) {
     };
 }
 
+
 // 4. تلخيص جميع المستخدمين
 function summarizeUsers(userArray) {
     if (!Array.isArray(userArray)) {
